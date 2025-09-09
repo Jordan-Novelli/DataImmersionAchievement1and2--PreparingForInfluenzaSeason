@@ -1,6 +1,8 @@
-# DataImmersionAchievement2-PreparingForInfluenzaSeason
+# DataImmersionAchievement1and2-PreparingForInfluenzaSeason
 
-Assist a medical staffing agency that provides temporary staff to clinics and hospitals as needed. The objective is to plan for influenza season. Provide an adequate plan that will supply support staff based on increased influenza trends across the United States. Identifying this trend will allow for categorization of states based on low, medium or high need of staff. Determine influenzas seasonality or if it’s a year-round viral infection. Assess data limitations that may prevent performing the best analysis. 
+Assist a medical staffing agency that provides temporary staff to clinics and hospitals as needed. The objective is to plan for influenza season. Provide an adequate plan that will supply support staff based on increased influenza trends across the United States. Identifying this trend will allow for categorization of states based on low, medium or high need of staff. Determine influenzas seasonality or if it’s a year-round viral infection. Assess data limitations that may prevent performing the best analysis.
+
+**Section 1**
 
 Explore different types of visualizations such as:
 
