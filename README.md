@@ -15,5 +15,5 @@ Explore different types of visualizations such as:
 9. Word Clouds
 10. Packed Bubble Charts
 
-**Note** _not all visualization examples are in reference to the influenza season project_
+**Note** _not all visualization examples are in reference to the influenza season project._
 
